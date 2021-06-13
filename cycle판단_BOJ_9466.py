@@ -4,6 +4,7 @@ def dfs(curr):
     next_=arr[curr]
    # print(next_,"next",curr,"curr")
    # pull request
+   # pull request2
     if check[next_]==True:
         if not finish[next_]:
             temp=next_
